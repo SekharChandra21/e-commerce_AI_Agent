@@ -43,6 +43,12 @@ ecommerce-ai-agent/
 * 💬 English summary of SQL result
 * 🧪 Developer mode (shows raw SQL + results)
 * 📦 SQLite-based backend with three core tables
+  
+
+<img width="1021" height="848" alt="image" src="https://github.com/user-attachments/assets/b862b558-260a-4f2a-a8f5-4cdb6b75ad03" />
+<img width="859" height="875" alt="image" src="https://github.com/user-attachments/assets/981838ae-c695-4367-8bbf-93b7dcf530fb" />
+
+
 
 ---
 
