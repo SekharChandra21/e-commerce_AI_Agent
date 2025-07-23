@@ -117,8 +117,6 @@ The AI will:
 * Display a Plotly bar chart
 * Summarize: "In January, sales were \$XYZ, in February \$ABC..." etc.
 
-Enable **Developer Mode** to see raw SQL and result JSON.
-
 ---
 
 ## 🧱 Core Tables (SQLite)
