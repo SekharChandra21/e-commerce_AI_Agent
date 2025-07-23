@@ -1,5 +1,5 @@
 
-# 🛒 Ecommerce AI Agent 🤖
+# 🛒 Ecommerce AI Agent 
 
 This is an AI-powered natural language interface for querying ecommerce data using SQLite. Users can ask business-related questions (e.g., "What is my total sales every month?"), and the system automatically:
 
@@ -51,7 +51,7 @@ ecommerce-ai-agent/
 ### 1. Clone and Navigate
 
 ```bash
-git clone https://github.com/mohankrishna36/ecommerce-ai-agent.git
+git clone https://github.com/SekharChandra21/e-commerce_AI_Agent.git
 cd ecommerce-ai-agent
 ```
 
@@ -177,14 +177,3 @@ plotly
 > Install via `pip install -r requirements.txt`
 
 ---
-
-## 📸 Screenshot
-
-![Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.jpg)
-
----
-
-## 🤝 Contribution
-
-PRs and suggestions welcome!
-If you find a bug or want a new feature, open an issue.
